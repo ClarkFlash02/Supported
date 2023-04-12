@@ -1,0 +1,289 @@
+---Intro
+
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/CodeGaming2/kvxcg/main/ctto"))()
+
+local Window = Library.CreateLib("CGHub Supported Games", "GreenTheme")
+
+---TABS
+ 
+local Tab1 = Window:NewTab("GAMES")
+
+local Section1 = Tab1:NewSection("Supported Games")
+
+---Tab1
+
+Section1:NewButton("+1 Blocks Every Second", "Credits To The Owner", function()
+end)
+
+Section1:NewButton("3008", "Credits To The Owner",function()
+end)
+
+Section1:NewButton("50/50 Pick A Door Obby!","Credits To The Owner", function()
+end)
+
+Section1:NewButton("Adopt Me!","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Anime Adventures","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Anime Clicker Fight","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Anime Racing Clicker","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Anime Souls Simulator","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Anime Weapon Simulator","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Answer or Die","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Arsenal","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Bedwars","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Barry's Prison Run","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Be A Parkour Ninja","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Bee Swarm Simulator","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Berry Avenue RP","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Beyondland","Credits To The Owner",function()
+end)
+
+Section1:NewButton("BIG Paintball!","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Blox Fruits","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Break In","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Breaking Point","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Brookhaven RP","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Build A Boat For Treasure","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Build And Survive","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Busy Business!","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Car Dealership Tycoon","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Car Factory Tycoon!","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Combat Warriors","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Da Hood","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Defense Until Death Simulator","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Drive World","Credits To The Owner",function()
+end)
+
+Section1:NewButton("DOORS","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Clicker Mining Simulator","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Eat Same Color Food Challenge","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Evade","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Fat Simulator","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Find The Markers","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Flee The Facility","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Fly Race!","Credits To The Owner",function()
+end)
+
+Section1:NewButton("[FREE ADMIN]","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Free Hatchers","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Funky Friday","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Hood Modded","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Hide And Seek Extreme","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Jailbreak","Credits To The Owner",function()
+end)
+
+Section1:NewButton("KAT","Credits To The Owner",function()
+end)
+
+Section1:NewButton("King Legacy","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Legends Of Speed","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Longest Answer Wins!","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Luck Block","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Lumber Tycoon 2","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Merge Simulator","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Millionaire Empire Tycoon","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Military Tycoon","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Murder Mystery 2","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Muscle Legends","Credits To The Owner",function()
+end)
+
+Section1:NewButton("My Restaurant","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Natural Disaster Survival","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Ninja Tycoon","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Pet Simulator X!","Credits To The Owner",function()
+end)
+
+Section1:NewButton("PLS DONATE","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Prison Life","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Pop It Trading","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Project Slayers","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Punch Wall Simulator","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Mega Easy Obby","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Race Clicker","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Ragdoll Engine","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Rainbow Friends","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Restaurant Tycoon 2","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Ro-Ghoul [ALPHA]","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Slap Battles","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Solarpunk Simulator","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Sonic Speed Simulator","Credits To The Owner",function()
+end)
+
+Section1:NewButton("STEEP STEPS","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Strongman Simulator","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Strong Muscle Simulator","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Surf Race","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Survive The Killer","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Sword Fighters Simulator","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Taxi Boss","Credits To The Owner",function()
+end)
+
+Section1:NewButton("The Strongest Battlegrounds","Credits To The Owner",function()
+end)
+
+Section1:NewButton("The Survival Game","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Tower of Hell","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Wall Destroyer Simulator","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Welcome to Bloxburg","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Work At A Pizza Place","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Yeet a Friend","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Zombie Attack","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Ohio","Credits To The Owner",function()
+end)
+
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+        Title = "CG Hub";
+        Text = "SUPPORTED GAMES";
+        Icon = "rbxthumb://type=Asset&id=5107182114&w=150&h=150"})
+    Duration = 16;
