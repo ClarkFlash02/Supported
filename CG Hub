@@ -189,6 +189,9 @@ end)
 Section1:NewButton("Ninja Tycoon","Credits To The Owner",function()
 end)
 
+Section1:NewButton("Ohio","Credits To The Owner",function()
+end)
+
 Section1:NewButton("Pet Simulator X!","Credits To The Owner",function()
 end)
 
@@ -249,6 +252,9 @@ end)
 Section1:NewButton("Survive The Killer","Credits To The Owner",function()
 end)
 
+Section1:NewButton("Swordburst 2","Credits To The Owner",function()
+end)
+
 Section1:NewButton("Sword Fighters Simulator","Credits To The Owner",function()
 end)
 
@@ -273,13 +279,16 @@ end)
 Section1:NewButton("Work At A Pizza Place","Credits To The Owner",function()
 end)
 
+Section1:NewButton("Worm 2048","Credits To The Owner",function()
+end)
+
 Section1:NewButton("Yeet a Friend","Credits To The Owner",function()
 end)
 
-Section1:NewButton("Zombie Attack","Credits To The Owner",function()
+Section1:NewButton("Your Bizzare Adventure","Credits To The Owner",function()
 end)
 
-Section1:NewButton("Ohio","Credits To The Owner",function()
+Section1:NewButton("Zombie Attack","Credits To The Owner",function()
 end)
 
 game:GetService("StarterGui"):SetCore("SendNotification", { 
