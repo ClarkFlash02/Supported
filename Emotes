@@ -1,0 +1,27 @@
+---Intro
+
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/CodeGaming2/kvxcg/main/ctto"))()
+
+local Window = Library.CreateLib("CGHub Emotes", "GreenTheme")
+
+---TABS
+ 
+local Tab1 = Window:NewTab("EMOTES")
+
+local Section1 = Tab1:NewSection("Choose Your Platform")
+
+---Tab1
+
+Section1:NewButton("Emotes(Android)", "Credits To The Owner", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/eCpipCTH"))()
+end)
+
+Section1:NewButton("Emotes(PC)", "Credits To The Owner", function()
+loadstring(game:HttpGet("https://gitlab.com/Tsuniox/lua-stuff/-/raw/master/R15GUI.lua"))()
+end)
+
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+        Title = "CG Hub";
+        Text = "Emotes";
+        Icon = "rbxthumb://type=Asset&id=5107182114&w=150&h=150"})
+    Duration = 16;
