@@ -204,6 +204,9 @@ end)
 Section1:NewButton("Pop It Trading","Credits To The Owner",function()
 end)
 
+Section1:NewButton("Prison Race Clicker","Credits To The Owner",function()
+end)
+
 Section1:NewButton("Project Slayers","Credits To The Owner",function()
 end)
 
@@ -250,6 +253,9 @@ Section1:NewButton("Surf Race","Credits To The Owner",function()
 end)
 
 Section1:NewButton("Survive The Killer","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Starving Artists","Credits To The Owner",function()
 end)
 
 Section1:NewButton("Swordburst 2","Credits To The Owner",function()
