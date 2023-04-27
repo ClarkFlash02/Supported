@@ -117,6 +117,9 @@ end)
 Section1:NewButton("Evade","Credits To The Owner",function()
 end)
 
+Section1:NewButton("Fabled Legacy","Credits To The Owner",function()
+end)
+
 Section1:NewButton("Fat Simulator","Credits To The Owner",function()
 end)
 
@@ -174,6 +177,9 @@ end)
 Section1:NewButton("Military Tycoon","Credits To The Owner",function()
 end)
 
+Section1:NewButton("Mine Blocks Simulator","Credits To The Owner",function()
+end)
+
 Section1:NewButton("Murder Mystery 2","Credits To The Owner",function()
 end)
 
@@ -229,6 +235,12 @@ Section1:NewButton("Restaurant Tycoon 2","Credits To The Owner",function()
 end)
 
 Section1:NewButton("Ro-Ghoul [ALPHA]","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Saber Showdown","Credits To The Owner",function()
+end)
+
+Section1:NewButton("Skydive Off A Tower","Credits To The Owner",function()
 end)
 
 Section1:NewButton("Slap Battles","Credits To The Owner",function()
